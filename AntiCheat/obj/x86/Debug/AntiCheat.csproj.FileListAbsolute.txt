@@ -1,0 +1,25 @@
+c:\users\superhp\documents\visual studio 2010\Projects\AntiCheat\AntiCheat\bin\Debug\AntiCheat.exe
+c:\users\superhp\documents\visual studio 2010\Projects\AntiCheat\AntiCheat\bin\Debug\AntiCheat.pdb
+c:\users\superhp\documents\visual studio 2010\Projects\AntiCheat\AntiCheat\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\superhp\documents\visual studio 2010\Projects\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.AntiCheat.resources
+c:\users\superhp\documents\visual studio 2010\Projects\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.Properties.Resources.resources
+c:\users\superhp\documents\visual studio 2010\Projects\AntiCheat\AntiCheat\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\superhp\documents\visual studio 2010\Projects\AntiCheat\AntiCheat\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\superhp\documents\visual studio 2010\Projects\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.exe
+c:\users\superhp\documents\visual studio 2010\Projects\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.pdb
+E:\shr\E#(Pramogos - NTFS 1)\mano\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.exe
+E:\shr\E#(Pramogos - NTFS 1)\mano\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.pdb
+E:\shr\E#(Pramogos - NTFS 1)\mano\AntiCheat\AntiCheat\bin\Debug\AntiCheat.exe
+E:\shr\E#(Pramogos - NTFS 1)\mano\AntiCheat\AntiCheat\bin\Debug\AntiCheat.pdb
+E:\shr\E#(Pramogos - NTFS 1)\mano\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.csprojResolveAssemblyReference.cache
+E:\shr\E#(Pramogos - NTFS 1)\mano\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.AntiCheat.resources
+E:\shr\E#(Pramogos - NTFS 1)\mano\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.Properties.Resources.resources
+E:\shr\E#(Pramogos - NTFS 1)\mano\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.csproj.GenerateResource.Cache
+C:\Users\Aurimas\Desktop\Git\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.exe
+C:\Users\Aurimas\Desktop\Git\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.pdb
+C:\Users\Aurimas\Desktop\Git\AntiCheat\AntiCheat\bin\Debug\AntiCheat.exe
+C:\Users\Aurimas\Desktop\Git\AntiCheat\AntiCheat\bin\Debug\AntiCheat.pdb
+C:\Users\Aurimas\Desktop\Git\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.csprojResolveAssemblyReference.cache
+C:\Users\Aurimas\Desktop\Git\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.AntiCheat.resources
+C:\Users\Aurimas\Desktop\Git\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.Properties.Resources.resources
+C:\Users\Aurimas\Desktop\Git\AntiCheat\AntiCheat\obj\x86\Debug\AntiCheat.csproj.GenerateResource.Cache
